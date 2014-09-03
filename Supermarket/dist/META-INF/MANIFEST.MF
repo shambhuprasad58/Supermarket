@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.1
+Created-By: 1.6.0-b105 (Sun Microsystems Inc.)
+Main-Class: softwarelabapp1.Main
+Class-Path: lib/poi-bin-3.8-beta5-20111217.zip lib/poi-src-3.8-beta5-2
+ 0111217.zip lib/commons-logging-1.1.jar lib/junit-3.8.1.jar lib/log4j
+ -1.2.13.jar lib/poi-3.8-beta5-20111217.jar lib/poi-examples-3.8-beta5
+ -20111217.jar lib/poi-excelant-3.8-beta5-20111217.jar lib/poi-ooxml-3
+ .8-beta5-20111217.jar lib/poi-ooxml-schemas-3.8-beta5-20111217.jar li
+ b/poi-scratchpad-3.8-beta5-20111217.jar lib/poi-3.7-20101029.jar lib/
+ poi-examples-3.7-20101029.jar lib/poi-ooxml-3.7-20101029.jar lib/poi-
+ ooxml-schemas-3.7-20101029.jar lib/poi-scratchpad-3.7-20101029.jar li
+ b/commons-logging-1.1.jar lib/junit-3.8.1.jar lib/log4j-1.2.13.jar li
+ b/dom4j-1.6.1.jar lib/geronimo-stax-api_1.0_spec-1.0.jar lib/xmlbeans
+ -2.3.0.jar lib/beansbinding-1.2.1.jar lib/AbsoluteLayout.jar
+X-COMMENT: Main-Class will be added automatically by build
+
